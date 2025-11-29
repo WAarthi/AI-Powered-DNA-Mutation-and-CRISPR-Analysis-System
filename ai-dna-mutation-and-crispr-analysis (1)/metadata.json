@@ -1,0 +1,5 @@
+
+{
+  "name": "AI DNA Mutation and CRISPR Analysis",
+  "description": "An AI-powered web application for analyzing DNA sequences. It detects potential mutations using a simulated attention model and identifies optimal CRISPR-Cas9 target sites with risk assessment, providing a comprehensive DNA health report."
+}
